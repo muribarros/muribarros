@@ -3,7 +3,7 @@
 
 <p align="center">
   <b>Doutorando em Tecnologia (UNICAMP)</b> <br>
-  <i>Visão Computacional em Imageamento Médico • Desenvolvedor Python • FAPESP TT-IV</i>
+  <i>Visão Computacional em Imageamento Médico • Desenvolvedor Python</i>
 </p>
 
 <p align="center">
