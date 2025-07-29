@@ -1,5 +1,5 @@
 
-<h1 align="center">👨‍🔬 Murilo Costa de Barros</h1>
+<h1 align="center">👨‍🔬 Murilo Barros</h1>
 
 <p align="center">
   <b>PhD Student in University of Campinas (UNICAMP)</b> <br>
