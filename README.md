@@ -70,7 +70,7 @@ applied to agriculture, with a focus on deforestation analysis and classificatio
 - 📧 Email: **murilo.barros.sn@gmail.com**  
 - 🔗 [LinkedIn](https://linkedin.com/in/murilo-costa-de-barros-5246a3154/)  
 - 🧬 [ORCID](https://orcid.org/0000-0003-2452-8128)  
-- 📝 [Currículo Lattes](http://lattes.cnpq.br/2719934668003842)
+- 📝 [CV Lattes](http://lattes.cnpq.br/2719934668003842)
 - 📝 [Researchgate](https://www.researchgate.net/profile/Murilo-Costa-De-Barros?ev=hdr_xprf)
 
 ---
