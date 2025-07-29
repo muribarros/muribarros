@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&center=true&width=435&lines=Medical+Imaging+%7C+AI+for+Healthcare;Tourette+Syndrome+via+Radiomics;MRI+Texture+Analysis+%7C+Machine Learning+%7C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&center=true&width=435&lines=Medical+Imaging+%7C+AI+for+Healthcare;Tourette+Syndrome+via+Radiomics;MRI+Texture+Analysis+%7C+Machine Learning" alt="Typing SVG" />
 </p>
 
 ---
