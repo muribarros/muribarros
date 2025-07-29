@@ -23,6 +23,7 @@ utilizando redes neurais convolucionais, como VGG16, VGG19 e ResNet, e segmenta�
 machine learning aplicadas à agricultura, com foco em análise de desmatamento e classificação de culturas de plantio, como café, soja e milho, utilizando imagens de satélite. 
 ---
 
+
 ### 🧪 Áreas de Interesse e projetos desenvolvidos
 
 - 🧠 Método de classificação de pacientes com Síndrome de Tourette com Machine Learning  
