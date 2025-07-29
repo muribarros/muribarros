@@ -44,7 +44,7 @@ applied to agriculture, with a focus on deforestation analysis and classificatio
 
 ---
 
-### 🧪 Lecture
+### 📚 Lecture
 
 | Project | Description |
 |--------|-----------|
