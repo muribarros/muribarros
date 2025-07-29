@@ -3,7 +3,7 @@
 
 <p align="center">
   <b>Doutorando em Tecnologia (UNICAMP)</b> <br>
-  <i>Visão Computacional em Imageamento Médico • Desenvolvedor Python</i>
+  <i>Pesquisador em Síndrome de Tourette e I.A • Desenvolvedor Python</i>
 </p>
 
 <p align="center">
