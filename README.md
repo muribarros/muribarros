@@ -17,8 +17,8 @@
 - Doutorando em Tecnologia com ênfase em Sistemas de Informação e Comunicação, com uma linha de pesquisa voltada ao diagnóstico da Síndrome de Tourette.
 - Pós-graduação Lato Sensu em Processos didáticos-pedagógicos para cursos na modalidade a distância - UNIVESP
 - Mestre em Tecnologia com ênfase em Sistemas de Informação e Comunicação, com uma linha de pesquisa voltada ao diagnóstico da Síndrome de Tourette.
-Possúo conhecimento em Python com vasta experiência em processamento de imagens, incluindo a extração de características de textura e forma, utilizando descritores avançados como GLCM, 
-GLRLM, GLSZM, NGTDM e SIHKS. Tenho expertise no uso de classificadores como Support Vector Machine (SVM) e Naive Bayes, além de desenvolver arquiteturas de classificação 
+
+- Possúo conhecimento em Python com vasta experiência em processamento de imagens, incluindo a extração de características de textura e forma, utilizando descritores avançados como GLCM, GLRLM, GLSZM, NGTDM e SIHKS. Tenho expertise no uso de classificadores como Support Vector Machine (SVM) e Naive Bayes, além de desenvolver arquiteturas de classificação 
 utilizando redes neurais convolucionais, como VGG16, VGG19 e ResNet, e segmentação de imagens com U-Net. Experiência interdisciplinares como em desenvolvimento de soluções de 
 machine learning aplicadas à agricultura, com foco em análise de desmatamento e classificação de culturas de plantio, como café, soja e milho, utilizando imagens de satélite. 
 ---
