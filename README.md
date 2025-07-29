@@ -1,29 +1,48 @@
-<h1 align="center">Msc. Murilo Costa de Barros</h1>
+
+<h1 align="center">👨‍🔬 Msc. Murilo Costa de Barros</h1>
 
 <p align="center">
-  Doutorando em Tecnologia (UNICAMP) | Visão Computacional em Imageamento Médico.Desenvolvedor Python
+  <b>Doutorando em Tecnologia (UNICAMP)</b> <br>
+  <i>Visão Computacional em Imageamento Médico • Desenvolvedor Python • FAPESP TT-IV</i>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&center=true&width=435&lines=Medical+Imaging+%7C+AI+for+Healthcare;Tourette+Syndrome+via+Radiomics;MRI+Texture+Analysis+%7C+GLCM+%7C+SVM" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧠 Sobre mim
 
-Sou pesquisador na área de Visão Computacional aplicada à Saúde e Meio Ambiente. Atualmente desenvolvo técnicas de extração de características (GLCM, GLRLM, textura e forma) para imagens de Ressonância Magnética com foco na **Síndrome de Tourette**. Também atuo em projetos com dados de sensoriamento remoto (Sentinel, Landsat, MapBiomas) voltados ao **monitoramento agrícola e desmatamento**.
+Sou pesquisador na área de Visão Computacional aplicada à Saúde e Meio Ambiente. Atualmente desenvolvo técnicas de extração de características (GLCM, GLRLM, textura e forma) para imagens de Ressonância Magnética com foco na **Síndrome de Tourette**. Também atuo com sensoriamento remoto (Sentinel, Landsat, MapBiomas) para **monitoramento agrícola e desmatamento**.
 
 ---
 
 ### 🧪 Áreas de Interesse
 
-- 🧠 Diagnóstico assistido por imagem (MRI) com Machine Learning
-- 🛰️ Processamento de imagens de satélite (Sentinel-2, CBERS, Landsat)
-- 🌾 Classificação de cultivos com Deep Learning
-- 🧬 Extração de descritores: GLCM, GLRLM, GLSZM, NGTDM
-- 🤖 Redes Neurais Convolucionais (CNNs): VGG16, ResNet, SLANT, Grad-CAM
-- 📚 Publicações científicas com foco em ST, segmentação e classificação
+- 🧠 Diagnóstico assistido por imagem (MRI) com Machine Learning  
+- 🛰️ Processamento de imagens de satélite (Sentinel-2, CBERS, Landsat)  
+- 🌾 Classificação de cultivos com Deep Learning  
+- 🧬 Extração de descritores: GLCM, GLRLM, GLSZM, NGTDM  
+- 🤖 CNNs: VGG16, ResNet, SLANT, Grad-CAM  
+- 📚 Publicações científicas em neuroimagem e classificação  
 
 ---
 
-### 📂 Repositórios em Destaque
+### 📈 Estatísticas
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=muribarros&show_icons=true&theme=radical&hide=issues&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muribarros&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muribarros&theme=radical" />
+</p>
+
+---
+
+### 🧪 Repositórios em Destaque
 
 | Projeto | Descrição |
 |--------|-----------|
