@@ -18,27 +18,15 @@ Sou pesquisador na área de Visão Computacional aplicada à Saúde e Meio Ambie
 
 ---
 
-### 🧪 Áreas de Interesse
+### 🧪 Áreas de Interesse e projetos desenvolvidos
 
-- 🧠 Diagnóstico assistido por imagem (MRI) com Machine Learning  
+- 🧠 Método de classificação de pacientes com Síndrome de Tourette com Machine Learning  
+- 🤖 Processamento de imagens de ressonância magnétic
 - 🛰️ Processamento de imagens de satélite (Sentinel-2, CBERS, Landsat)  
 - 🌾 Classificação de cultivos com Deep Learning  
-- 🧬 Extração de descritores: GLCM, GLRLM, GLSZM, NGTDM  
-- 🤖 CNNs: VGG16, ResNet, SLANT, Grad-CAM  
+- 🧬 Extração de caracteristicas de textura via descritores: GLCM, GLRLM, GLSZM, NGTDM  
+- 🤖 CNNs: VGG16, VGG 19, ResNet, U-Net, SLANT  
 - 📚 Publicações científicas em neuroimagem e classificação  
-
----
-
-### 📈 Estatísticas
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=muribarros&show_icons=true&theme=radical&hide=issues&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muribarros&layout=compact&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muribarros&theme=radical" />
-</p>
 
 ---
 
@@ -62,17 +50,20 @@ Sou pesquisador na área de Visão Computacional aplicada à Saúde e Meio Ambie
 - **2022** - de Barros, M.C., Duarte, K.T., Lee, W.T., Hsu, C.J. and de Carvalho, M.A.G., 2022, October. Analysis of the statistical significance of 3D texture features in MRI images toward the detection of Tourette’s Syndrome. In 2022 35th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI) (Vol. 1, pp. 103-108). IEEE.
 - **2022** - De Barros, M.C., Duarte, K.T.N., Lee, W.T., Hsu, C.J. and De Carvalho, M.A.G., 2022. Detecting Tourette's Syndrome in Anatomical Regions of the Brain through MRI Analysis and Naive Bayes Classifier. In IMPROVE (pp. 26-33).
 - **2022** - Barrosa, M.C., Duartea, K.T. and Rogerb, L.L., Ceramics in Modern Technologies.
-- - 🔗 [Lista completa no Google Scholar]([https://scholar.google.com.br](https://scholar.google.com.br/citations?user=O4H8cq8AAAAJ&hl=en&oi=ao)) *(ou Lattes)*
+🔗 [Google Scholar](https://scholar.google.com.br/citations?user=O4H8cq8AAAAJ&hl=en&oi=ao) • [Lattes](http://lattes.cnpq.br/)
 
 ---
 
-### 📫 Contato
+### 👨‍💻 Contato
 
-- ✉️ Email: murilo.barros.sn@gmail.com  
-- 🌐 [LinkedIn](linkedin.com/in/murilo-costa-de-barros-5246a3154/)  
-- 🌍 [ORCID](https://orcid.org/0000-0003-2452-8128)  
-- 🧾 [Currículo Lattes](http://lattes.cnpq.br/)
+- 📧 Email: **murilo.barros.sn@gmail.com**  
+- 🔗 [LinkedIn](https://linkedin.com/in/murilo-costa-de-barros-5246a3154/)  
+- 🧬 [ORCID](https://orcid.org/0000-0003-2452-8128)  
+- 📝 [Currículo Lattes](http://lattes.cnpq.br/)
 
 ---
 
-<p align="center">🚀 Sempre em busca de colaboração científica interdisciplinar</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380px" /><br>
+  <i>🚀 Sempre em busca de colaboração científica interdisciplinar</i>
+</p>
