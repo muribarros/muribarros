@@ -48,7 +48,7 @@ applied to agriculture, with a focus on deforestation analysis and classificatio
 
 | Project | Description |
 |--------|-----------|
-| 🔍 [Course]([https://github.com/muribarros/TS_Feature_Extractor](https://www.ft.unicamp.br/pt-br/noticias/doutorando-da-ft-ministra-minicurso-sobre-abordagem-educacional-focada-em-crian%C3%A7as-com)) | Educational approach focused on children with Tourette Syndrome (TS)|
+| 🔍 [Course]([https://github.com/muribarros/TS_Feature_Extractor](https://www.ft.unicamp.br/pt-br/noticias/doutorando-da-ft-ministra-minicurso-sobre-abordagem-educacional-focada-em-crian%C3%A7as-com) | Educational approach focused on children with Tourette Syndrome (TS)|
 ---
 
 ### 📑 Selected Publications
