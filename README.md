@@ -44,6 +44,13 @@ applied to agriculture, with a focus on deforestation analysis and classificatio
 
 ---
 
+### 🧪 Lecture
+
+| Project | Description |
+|--------|-----------|
+| 🔍 [Course]([https://github.com/muribarros/TS_Feature_Extractor](https://www.ft.unicamp.br/pt-br/noticias/doutorando-da-ft-ministra-minicurso-sobre-abordagem-educacional-focada-em-crian%C3%A7as-com)) | Educational approach focused on children with Tourette Syndrome (TS)|
+---
+
 ### 📑 Selected Publications
 
 - **2025** - Duarte, K.T.N., de Barros, M.C., Sidhu, A.S., Gobbi, D., McCreary, C., Saad, F., Camicioli, R., Smith, E., Carvalho, M. and Frayne, R., 2025. Attention Blocks Improve White Matter Hyperintensity Semantic Segmentation using U-Nets. IEEE Latin America Transactions, 23(8), pp.646-661.
