@@ -2,8 +2,8 @@
 <h1 align="center">👨‍🔬 Msc. Murilo Costa de Barros</h1>
 
 <p align="center">
-  <b>Doutorando em Tecnologia (UNICAMP)</b> <br>
-  <i>Pesquisador em Síndrome de Tourette e I.A • Desenvolvedor Python</i>
+  <b>PhD Student in University of Campinas (UNICAMP)</b> <br>
+  <i>Tourette's Syndrome Researcher and Artificial Inteligence Development • Python Development</i>
 </p>
 
 <p align="center">
@@ -12,40 +12,39 @@
 
 ---
 
-### 🧠 Sobre mim
+### 🧠 About
 
-- Doutorando em Tecnologia com ênfase em Sistemas de Informação e Comunicação, com uma linha de pesquisa voltada ao diagnóstico da Síndrome de Tourette.
-- Pós-graduação Lato Sensu em Processos didáticos-pedagógicos para cursos na modalidade a distância - UNIVESP
-- Mestre em Tecnologia com ênfase em Sistemas de Informação e Comunicação, com uma linha de pesquisa voltada ao diagnóstico da Síndrome de Tourette.
+- PhD candidate in Technology with an emphasis on Information and Communication Systems, with a research focus on the diagnosis of Tourette Syndrome.
+- Lato Sensu postgraduate degree in Didactic-Pedagogical Processes for Distance Learning Courses - UNIVESP
+- Master's degree in Technology with emphasis on Information and Communication Systems, with a research focus on the diagnosis of Tourette Syndrome.
 
-- Possúo conhecimento em Python com vasta experiência em processamento de imagens, incluindo a extração de características de textura e forma, utilizando descritores avançados como GLCM, GLRLM, GLSZM, NGTDM e SIHKS. Tenho expertise no uso de classificadores como Support Vector Machine (SVM) e Naive Bayes, além de desenvolver arquiteturas de classificação 
-utilizando redes neurais convolucionais, como VGG16, VGG19 e ResNet, e segmentação de imagens com U-Net. Experiência interdisciplinares como em desenvolvimento de soluções de 
-machine learning aplicadas à agricultura, com foco em análise de desmatamento e classificação de culturas de plantio, como café, soja e milho, utilizando imagens de satélite. 
+- I have knowledge of Python with extensive experience in image processing, including the extraction of texture and shape features, using advanced descriptors such as GLCM, GLRLM, GLSZM, NGTDM, and SIHKS. I have expertise in the use of classifiers such as Support Vector Machine (SVM) and Naive Bayes, in addition to developing classification architectures 
+using convolutional neural networks, such as VGG16, VGG19, and ResNet, and image segmentation with U-Net. Interdisciplinary experience such as in the development of machine learning solutions 
+applied to agriculture, with a focus on deforestation analysis and classification of crops such as coffee, soybeans, and corn, using satellite images. 
 ---
 
+### 🧪 Areas of Interest and Projects Developed
 
-### 🧪 Áreas de Interesse e projetos desenvolvidos
-
-- 🧠 Método de classificação de pacientes com Síndrome de Tourette com Machine Learning  
-- 🤖 Processamento de imagens de ressonância magnétic
-- 🛰️ Processamento de imagens de satélite (Sentinel-2, CBERS, Landsat)  
-- 🌾 Classificação de cultivos com Deep Learning  
-- 🧬 Extração de caracteristicas de textura via descritores: GLCM, GLRLM, GLSZM, NGTDM  
-- 🤖 CNNs: VGG16, VGG 19, ResNet, U-Net, SLANT  
-- 📚 Publicações científicas em neuroimagem e classificação  
+- 🧠 Classification method for patients with Tourette Syndrome using Machine Learning
+- 🤖 Magnetic resonance image processing
+- 🛰️ Satellite image processing (Sentinel-2, CBERS, Landsat)
+- 🌾 Crop classification using Deep Learning  
+- 🧬 Extraction of texture features via descriptors: GLCM, GLRLM, GLSZM, NGTDM
+- 🤖 CNNs: VGG16, VGG 19, ResNet, U-Net, SLANT
+- 📚 Scientific publications on neuroimaging and classification
 
 ---
 
-### 🧪 Repositórios em Destaque
+### 🧪 Featured Repositories
 
-| Projeto | Descrição |
+| Project | Description |
 |--------|-----------|
-| 🔍 [TS_Feature_Extractor](https://github.com/muribarros/TS_Feature_Extractor) | Extração de descritores de textura em RM para Tourette |
-| 🧪 [Augmented_Classify_TS](https://github.com/muribarros/Augmented_Classify_TS) | Classificação com aumento de dados de MRI para ST |
+| 🔍 [TS_Feature_Extractor](https://github.com/muribarros/TS_Feature_Extractor) | Feature texture extraction in MRI for Tourette's Syndrome patients |
+| 🧪 [Augmented_Classify_TS](https://github.com/muribarros/Augmented_Classify_TS) | Classification with Data augmentation of MRI data|
 
 ---
 
-### 📑 Publicações Selecionadas
+### 📑 Selected Publications
 
 - **2025** - Duarte, K.T.N., de Barros, M.C., Sidhu, A.S., Gobbi, D., McCreary, C., Saad, F., Camicioli, R., Smith, E., Carvalho, M. and Frayne, R., 2025. Attention Blocks Improve White Matter Hyperintensity Semantic Segmentation using U-Nets. IEEE Latin America Transactions, 23(8), pp.646-661.
 - **2025** - de Barros, M.C., Duarte, K.T.N., Hsu, C.J., Lee, W.T. and Garcia de Carvalho, M.A., 2025. Identifying texture features from structural magnetic resonance imaging scans associated with Tourette’s syndrome using machine learning. Journal of Medical Imaging, 12(2), pp.026001-026001.
@@ -60,7 +59,7 @@ machine learning aplicadas à agricultura, com foco em análise de desmatamento 
 
 ---
 
-### 👨‍💻 Contato
+### 👨‍💻 Contact
 
 - 📧 Email: **murilo.barros.sn@gmail.com**  
 - 🔗 [LinkedIn](https://linkedin.com/in/murilo-costa-de-barros-5246a3154/)  
@@ -71,5 +70,5 @@ machine learning aplicadas à agricultura, com foco em análise de desmatamento 
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380px" /><br>
-  <i>🚀 Sempre em busca de colaboração científica interdisciplinar</i>
+  <i>🚀 Always seeking interdisciplinary scientific collaboration</i>
 </p>
