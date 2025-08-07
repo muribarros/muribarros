@@ -12,7 +12,7 @@
 
 ---
 
-### 🧠 About
+### 🧠 About of me
 
 - PhD candidate in Technology with an emphasis on Information and Communication Systems, with a research focus on the diagnosis of Tourette Syndrome.
 - Lato Sensu postgraduate degree in Didactic-Pedagogical Processes for Distance Learning Courses - UNIVESP
