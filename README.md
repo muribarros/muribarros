@@ -41,6 +41,7 @@ applied to agriculture, with a focus on deforestation analysis and classificatio
 |--------|-----------|
 | 🔍 [TS_Feature_Extractor](https://github.com/muribarros/TS_Feature_Extractor) | Feature texture extraction in MRI for Tourette's Syndrome patients |
 | 🧪 [Augmented_Classify_TS](https://github.com/muribarros/Augmented_Classify_TS) | Classification with Data augmentation of MRI data|
+| 🧪 [TS_Classification_Using_rs-fMRI_Radiomics] (https://github.com/muribarros/TS_Classification_Using_rs-fMRI_Radiomics).
 
 ---
 
